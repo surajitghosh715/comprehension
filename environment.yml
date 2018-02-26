@@ -1,0 +1,8 @@
+name: hello-tensorflow
+dependencies:
+  - python=3.6
+  - jupyter
+  - ipython
+  - pip:
+    - https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.1.0-cp36-cp36m-linux_x86_64.whl
+
